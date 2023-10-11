@@ -209,7 +209,7 @@ sections:
           # company: Intel
           # company_url: 'https://www.intel.com'
           company_logo: intel
-          location: California
+          location: Shanghai
           date_start: '2020-06-01'
           date_end: '2021-05-01'
           description: |2-
@@ -220,13 +220,14 @@ sections:
           company: With WWF and Intel
           company_url: 'https://tigers.panda.org/news_and_stories/stories/on_a_mission_to_protect_chinas_amur_tiger/'
           company_logo: WWF
-          location: California
+          location: Shanghai
           date_start: '2019-09-12'
           date_end: '2020-07-01'
           description: |2-
               * Collect video data in order to ReID amur tigers with deep learning methods to help to track them in natural reserve.
               * Established an amur tiger ReID dataset with object detection and Multiple Object Tracking methods.
               * Created a video ReID method which is 7% more accurate than the previous image ReID method for amur tigers.
+
     design:
       columns: '2'
 
