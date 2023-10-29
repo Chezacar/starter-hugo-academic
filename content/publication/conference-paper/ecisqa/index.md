@@ -32,7 +32,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: '#'
+url_pdf: 'https://arxiv.org/pdf/2310.15597'
+url_code: 'https://github.com/MediaBrain-SJTU/ECISQA'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: ''
 # url_poster: ''
