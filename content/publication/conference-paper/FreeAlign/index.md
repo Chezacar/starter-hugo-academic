@@ -1,5 +1,5 @@
 ---
-title: "[In submission ICRA 2024] Robust Collaborative Perception without External Localization and Clock Devices"
+title: "[ICRA 2024] Robust Collaborative Perception without External Localization and Clock Devices"
 authors:
 - zixing
 - Zhenyang Ni
@@ -8,7 +8,7 @@ authors:
 - Chen Feng 
 - Siheng Chen
 - Yanfeng Wang
-date: "2023-07-07T00:00:00Z"
+date: "2024-01-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

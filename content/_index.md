@@ -227,8 +227,18 @@ sections:
               * Collect video data in order to ReID amur tigers with deep learning methods to help to track them in natural reserve.
               * Established an amur tiger ReID dataset with object detection and Multiple Object Tracking methods.
               * Created a video ReID method which is 7% more accurate than the previous image ReID method for amur tigers.
-
-    design:
+      
+        - title: Computer Vision Engineering Intern
+          # company: Intel
+          # company_url: 'https://www.intel.com'
+          company_logo: ByteDance
+          location: Shanghai
+          date_start: '2024-01-01'
+          date_end: '2024-03-31'
+          description: |2-
+              * I am leveraging the excited vision language model to improve the performance of the governance system in TikTok.
+              * I am wokring on the efficient, robust and interpretable large multi-modal models, especially focus on COT technology.
+        
       columns: '2'
 
     
